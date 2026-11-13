@@ -187,4 +187,4 @@ This repository serves as the official landing page for Euro Truck Simulator 2 M
 **Get the most recent version of Euro Truck Simulator 2 Mercedes-Benz Actros MP4 today!**
 
 ---
-**Last updated:** 2026-11-12 23:14:34 UTC
+**Last updated:** 2026-11-13 05:06:17 UTC
